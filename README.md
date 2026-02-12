@@ -1,7 +1,7 @@
 <h1>No Data and Connection from Work Time Register</h1>
 
 <h2>Description</h2>
-A ticket-solving practice of solving a connection issue with an employee work time register in an simulated environment, IT Specialist Simulator.
+A ticket practice of solving a connection issue with an employee work time register in a simulated environment, IT Specialist Simulator.
 <br />
 
 <h2>Environments Used</h2>
@@ -22,7 +22,7 @@ I got a ticket from an employee saying that she couldn't clock in today.
 <br/>
 
 <p align="center">
-I went to the time register device.<br/>
+I went to the time register device. It's called RCP in Poland, where the simulator was developed.<br/>
 <img width="1920" height="1080" alt="IT Specialist Simulator 2_7_2026 4_28_19 PM" src="https://github.com/user-attachments/assets/1ba02a65-e746-4f1c-b005-791d6e525d53" />
 
 
@@ -64,7 +64,7 @@ I set the network settings of the time register device accordingly.<br/>
 <br/>
 
 <p align="center">
-I went to the IP of the time register device on browser.<br/>
+I connected to the IP address of the time register device on browser.<br/>
 <img width="1920" height="1080" alt="IT Specialist Simulator 2_7_2026 4_31_44 PM" src="https://github.com/user-attachments/assets/71c4526b-2b46-41b0-bc21-ee3de0cba855" />
 
 <br/>
